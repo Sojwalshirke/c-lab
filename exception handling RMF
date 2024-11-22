@@ -1,0 +1,4 @@
+This program demonstrates exception handling in C++ to manage division by zero errors.
+It includes a divide function that throws an exception if the denominator is zero. 
+The main function uses a try-catch block to handle the exception and display an appropriate error message.
+Input is taken from the user for the numerator and denominator, and the result is computed safely. This ensures robust error management during runtime.
